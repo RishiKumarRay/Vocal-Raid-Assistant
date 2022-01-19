@@ -80,7 +80,7 @@ local spellList = {
     ["MONK"] = {
         [115078] = { name = "Paralysis", phonetic_name = "", type = "cc"},
         [115176] = { name = "Zen Meditation", phonetic_name = "", type = "defensive"},
-        [115203] = { name = "Fortifying Brew", phonetic_name = "", type = "defensive"},
+        [243435] = { name = "Fortifying Brew", phonetic_name = "", type = "defensive"},
         [115310] = { name = "Revival", phonetic_name = "", type = "raidDefensive"},
         [116844] = { name = "Ring of Peace", phonetic_name = "", type = "disarm"},
         [116849] = { name = "Life Cocoon", phonetic_name = "", type = "externalDefensive"},
